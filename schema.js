@@ -13,7 +13,6 @@ const customers = [
   { id: "1", name: "Bob", email: "bobbo.com", age: 54 },
   { id: "2", name: "Mike", email: "mikke.com", age: 45 },
   { id: "3", name: "Sarah", email: "sarra.com", age: 23 },
-  { id: "4", name: "Reiss", email: "reisss.com", age: 32 },
 ];
 
 // Cust Type
